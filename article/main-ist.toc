@@ -1,0 +1,44 @@
+\contentsline {section}{\numberline {1}Introduction}{3}{section.1}
+\contentsline {section}{\numberline {2}Background}{4}{section.2}
+\contentsline {subsection}{\numberline {2.1}Startup and Entrepreneurship}{4}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}Software Development in Startups}{4}{subsection.2.2}
+\contentsline {section}{\numberline {3}Research methodology}{5}{section.3}
+\contentsline {subsection}{\numberline {3.1}Research Questions}{5}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Research process overview}{5}{subsection.3.2}
+\contentsline {subsection}{\numberline {3.3}Retrieving and screening articles}{5}{subsection.3.3}
+\contentsline {subsection}{\numberline {3.4}Mapping}{7}{subsection.3.4}
+\contentsline {subsection}{\numberline {3.5}Data extraction}{7}{subsection.3.5}
+\contentsline {subsection}{\numberline {3.6}Rigor and relevance assessment}{7}{subsection.3.6}
+\contentsline {subsection}{\numberline {3.7}Ranking of articles}{8}{subsection.3.7}
+\contentsline {subsection}{\numberline {3.8}Threats to validity}{8}{subsection.3.8}
+\contentsline {subsubsection}{\numberline {3.8.1}Publication bias}{8}{subsubsection.3.8.1}
+\contentsline {subsubsection}{\numberline {3.8.2}Threat to identification of primary studies}{8}{subsubsection.3.8.2}
+\contentsline {subsubsection}{\numberline {3.8.3}Threats to study selection and data extraction}{9}{subsubsection.3.8.3}
+\contentsline {section}{\numberline {4}Classification schema}{9}{section.4}
+\contentsline {section}{\numberline {5}Results}{11}{section.5}
+\contentsline {subsection}{\numberline {5.1}Publication distribution}{11}{subsection.5.1}
+\contentsline {subsection}{\numberline {5.2}Contextual features of startups}{15}{subsection.5.2}
+\contentsline {subsection}{\numberline {5.3}Rigor and relevance}{17}{subsection.5.3}
+\contentsline {section}{\numberline {6}Analysis of the state-of-the-art}{19}{section.6}
+\contentsline {subsection}{\numberline {6.1}Topics treated in the literature}{19}{subsection.6.1}
+\contentsline {subsection}{\numberline {6.2}Systematic map and distribution}{19}{subsection.6.2}
+\contentsline {subsection}{\numberline {6.3}Rigor and Relevance}{20}{subsection.6.3}
+\contentsline {subsection}{\numberline {6.4}Defining startups}{20}{subsection.6.4}
+\contentsline {subsection}{\numberline {6.5}Summary of findings}{20}{subsection.6.5}
+\contentsline {section}{\numberline {7}Work Practices in startups}{23}{section.7}
+\contentsline {subsection}{\numberline {7.1}Overview of Software development in Startups}{24}{subsection.7.1}
+\contentsline {subsection}{\numberline {7.2}Process management practices}{25}{subsection.7.2}
+\contentsline {subsection}{\numberline {7.3}Software development practices}{25}{subsection.7.3}
+\contentsline {subsubsection}{\numberline {7.3.1}Requirements Engineering}{26}{subsubsection.7.3.1}
+\contentsline {subsubsection}{\numberline {7.3.2}Design and Architecture}{26}{subsubsection.7.3.2}
+\contentsline {subsubsection}{\numberline {7.3.3}Implementation and maintenance}{26}{subsubsection.7.3.3}
+\contentsline {subsubsection}{\numberline {7.3.4}Quality Assurance}{26}{subsubsection.7.3.4}
+\contentsline {subsubsection}{\numberline {7.3.5}Other software development practices}{26}{subsubsection.7.3.5}
+\contentsline {subsection}{\numberline {7.4}Managerial and organizational practices}{26}{subsection.7.4}
+\contentsline {subsection}{\numberline {7.5}Other practices}{26}{subsection.7.5}
+\contentsline {section}{\numberline {8}Conclusions and future work}{26}{section.8}
+\let \numberline \tmptocnumberline 
+\contentsline {subsection}{\numberline {Appendix \nobreakspace {}.1}Search Strings}{26}{subsection.Alph0.1}
+\contentsline {subsection}{\numberline {Appendix \nobreakspace {}.2}Selected studies overview}{29}{subsection.Alph0.2}
+\contentsline {subsection}{\numberline {Appendix \nobreakspace {}.3}Ranking quantification}{32}{subsection.Alph0.3}
+\contentsline {subsection}{\numberline {Appendix \nobreakspace {}.4}Work practices extraction}{32}{subsection.Alph0.4}

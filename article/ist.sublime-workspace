@@ -1,0 +1,488 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ta",
+				"table	Table"
+			],
+			[
+				"d",
+				"df"
+			],
+			[
+				"node",
+				"fs.rename(oldPath, newPath, callback);"
+			],
+			[
+				"http",
+				"https.Agent(options);"
+			],
+			[
+				"s",
+				"schedule"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 67.0,
+		"selected_items":
+		[
+			[
+				"diff",
+				"FileDiffs: Menu"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"disable",
+				"SublimeCodeIntel: Disable Live Autocompletion"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Disable Package"
+			],
+			[
+				"intall",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Snippet: for (…) {…} (Improved Native For-Loop)"
+			]
+		],
+		"width": 476.0
+	},
+	"console":
+	{
+		"height": 89.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/advanced/Dropbox/Article_sds/ist - state-of-art/article/main-ist.tex",
+		"/Users/advanced/Dropbox/Thesis/Document/latex/thesis/main.bbl",
+		"/Users/advanced/Dropbox/Article_sds/ist - state-of-art/article/config.tex",
+		"/Users/advanced/Dropbox/Article_sds/ist - state-of-art/article/sections/02conclusions.tex",
+		"/Users/advanced/Dropbox/Article_sds/ist - state-of-art/article/sections/01intro.tex",
+		"/Users/advanced/Dropbox/Article_sds/ist - state-of-art/article/ist.sublime-project",
+		"/Users/advanced/Dropbox/Article_sds/ist - state-of-art/article/elsarticle-template-1-num.tex",
+		"/Users/advanced/Dropbox/Article_sds/ist - state-of-art/article/main-ist.bbl",
+		"/Users/advanced/Dropbox/Article_sds/ist - state-of-art/article/ist.bib",
+		"/Users/advanced/Dropbox/Thesis/Document/latex/thesis/main.tex",
+		"/Users/advanced/Dropbox/Thesis/Document/latex/thesis/Preamble/acknowledgments.tex",
+		"/Users/advanced/Dropbox/Thesis/Document/latex/thesis/Appendix/03sms_detail.tex",
+		"/Users/advanced/Dropbox/Thesis/Document/latex/thesis/Chapters/03related.tex",
+		"/Users/advanced/Dropbox/Thesis/Document/latex/thesis/Chapters/04methodology.tex",
+		"/Users/advanced/Dropbox/Thesis/Document/latex/thesis/Chapters/05results_analysis.tex",
+		"/Users/advanced/Dropbox/Thesis/Document/latex/thesis/Appendix/04gt_detail.tex",
+		"/Users/advanced/Dropbox/Thesis/Document/latex/thesis/Chapters/07behaviour.tex",
+		"/Users/advanced/Dropbox/Thesis/Document/latex/thesis/Chapters/06model.tex",
+		"/Users/advanced/Dropbox/Thesis/Document/latex/thesis/Appendix/05measurement.tex",
+		"/Users/advanced/Dropbox/Thesis/Document/latex/thesis/Chapters/01introduction.tex",
+		"/Users/advanced/Dropbox/Thesis/Document/latex/thesis/bthcsdiss.cls",
+		"/Users/advanced/Dropbox/Thesis/Document/latex/thesis/Preamble/abstract.tex",
+		"/Users/advanced/Dropbox/Thesis/Document/latex/thesis/thesis.sublime-project",
+		"/Users/advanced/Dropbox/Thesis/Document/latex/thesis/Appendix/02related_areas.tex",
+		"/Users/advanced/Dropbox/Thesis/Document/latex/thesis/Chapters/09conclusions.tex",
+		"/Users/advanced/Dropbox/Thesis/Document/latex/thesis/latexStats.sh",
+		"/Users/advanced/Dropbox/Thesis/Document/latex/thesis/Chapters/02background.tex",
+		"/Users/advanced/Dropbox/Thesis/Document/latex/thesis/Chapters/08summary.tex",
+		"/Users/advanced/Dropbox/Thesis/Document/latex/thesis/Preamble/fronts.tex",
+		"/Users/advanced/Dropbox/Thesis/Document/latex/thesis/Chapters/06model.aux",
+		"/Users/advanced/Dropbox/Thesis/Document/latex/thesis/glossary.tex",
+		"/Users/advanced/Dropbox/Thesis/Document/latex/thesis/Preamble/config.tex",
+		"/Users/advanced/Dropbox/Thesis/Document/latex/thesis/Chapters/04methodology.log",
+		"/Users/advanced/Desktop/prova.js",
+		"/Users/advanced/Dropbox/Thesis/Document/latex/thesis/Chapters/08conclusions.aux",
+		"/Users/advanced/Dropbox/Thesis/Document/latex/thesis/Appendix/01conventions.tex",
+		"/Users/advanced/Dropbox/Thesis/Document/latex/thesis/Chapters/08conclusions.tex",
+		"/Users/advanced/github/random-redirect/app.js",
+		"/Users/advanced/Dropbox/Thesis/Document/latex/thesis/Chapters/01introduction.aux",
+		"/Users/advanced/Dropbox/Thesis/Document/latex/thesis/main copy.log",
+		"/Users/advanced/Desktop/::TODO",
+		"/Users/advanced/Library/Caches/Cleanup At Startup/Transmit/151C44A1-0CFB-48E9-95AF-4DD4AB9986B2/index.htm",
+		"/Users/advanced/github/random-redirect/launch-server-bg.sh",
+		"/Users/advanced/github/random-redirect/README.md",
+		"/Users/advanced/github/random-redirect/sitelist.txt",
+		"/Users/advanced/github/Wake-me-up-if-sunny/WakeMeApp/src/it/lize/wma/core/Alarm.java",
+		"/Users/advanced/github/sublime/README",
+		"/Users/advanced/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/advanced/Library/Application Support/Sublime Text 2/Packages/SideBarGit/SideBarGit.sublime-settings",
+		"/Users/advanced/Library/Application Support/Sublime Text 2/Packages/Git/Git.sublime-settings",
+		"/Users/advanced/Desktop/App.js",
+		"/Users/advanced/Dropbox/ML_Assignment1/Task1/statistical_tests/Friedman.R",
+		"/Users/advanced/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/advanced/Dropbox/ML_Assignment1/Task1/statistical_tests/Functions.R",
+		"/Users/advanced/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/advanced/Dropbox/ML_Assignment1/Task1/task description.pdf",
+		"/Users/advanced/Dropbox/ML_Assignment1/Task1/Experiment/Experiment_classifier_opt.xml",
+		"/Users/advanced/Dropbox/ML_Assignment1/Task1/Experiment/J10Fold/J10Fold/src/se/bth/ml/App.java",
+		"/Users/advanced/Dropbox/projects/crilin/Dragonball/0017B_058x056.gif",
+		"/Users/advanced/Dropbox/projects/emse_rssowl/repository/workspace_rssowl/org.rssowl.ui/src/org/rssowl/ui/internal/services/DownloadService.java",
+		"/Users/advanced/Dropbox/projects/emse_measurment/documentation/issues2010msr.pdf",
+		"/Users/advanced/Dropbox/projects/abruzzo/php/inventario.php",
+		"/Users/advanced/Dropbox/projects/abruzzo/php/_inventario.php",
+		"/Users/advanced/Dropbox/projects/emse_rssowl/repository/workspace_rssowl/org.rssowl.core/schema/ElementHandler.exsd",
+		"/Users/advanced/Dropbox/projects/yatc/project_files/src/org/codehaus/jackson/map/type/ClassKey.java",
+		"/Users/advanced/Dropbox/projects/Civici D assalto.mov",
+		"/Users/advanced/Dropbox/projects/crilin/Dragonball/21.htm",
+		"/Users/advanced/Dropbox/projects/edit/js/jquery-1.6.1.min.js",
+		"/Users/advanced/Dropbox/projects/edit/js/custom.js",
+		"/Users/advanced/Dropbox/projects/edit/bookmarklet.htm",
+		"/Users/advanced/Dropbox/projects/webvltcgt/src/org/exalogic/webvltcgt/bean/Application.java",
+		"/Users/advanced/Dropbox/projects/webvltcgt/src/org/exalogic/webvltcgt/db/CheckLogin.java",
+		"/Users/advanced/Dropbox/projects/webvltcgt/src/org/exalogic/webvltcgt/db/ComboPerformance.java",
+		"/Users/advanced/Dropbox/projects/webvltcgt/src/org/exalogic/webvltcgt/db/ComboProvince.java",
+		"/Users/advanced/Dropbox/projects/webvltcgt/src/org/exalogic/webvltcgt/db/JoinEsercentiAgenti.java",
+		"/Users/advanced/Dropbox/projects/webvltcgt/src/org/exalogic/webvltcgt/interfaces/IF_Login.java",
+		"/Users/advanced/Dropbox/projects/edit/js/site.js",
+		"/Users/advanced/Library/Application Support/Sublime Text 2/Packages/User/Distraction Free.sublime-settings"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Users/advanced/Dropbox/Article_sds/ist - state-of-art/article",
+			"*.tex",
+			"",
+			"*.tex",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\\gls{",
+			"\\gl",
+			"\\gls",
+			"\\gls{",
+			"\\gl",
+			"\\gls",
+			"\\gls{",
+			"software",
+			"et.",
+			"expressed",
+			"Questionnaire - ",
+			"paragr",
+			"screening",
+			".''",
+			".''.",
+			".''}.",
+			".''",
+			"Rigor-rel",
+			"overview",
+			"systematic ",
+			"systematic mapping ",
+			"overview",
+			"rubrics",
+			"tabular",
+			"t",
+			"tabular",
+			"longtable",
+			"lifecycle",
+			"lifecicl",
+			"begin{center}",
+			"tabular",
+			"table",
+			"’",
+			" :",
+			" ;",
+			" .",
+			"}). ",
+			" .",
+			"longtable",
+			"}, ",
+			"name={",
+			"github",
+			"longtable",
+			"tabular",
+			"table",
+			"\\sout{",
+			"\n",
+			"\\sout{",
+			"sect:conclusions",
+			"plural",
+			"software development strategy",
+			"glspl",
+			"development strategies",
+			"\\gls{software development strategies",
+			"\\gls{software development strategies}",
+			"strategies",
+			"vast",
+			"\\ref{",
+			"\\cite{",
+			"regression lines",
+			"\"linear regression lines\"",
+			"implications",
+			"115",
+			"7",
+			"0.7",
+			"0.5",
+			"tab:ms:rig-rel-results",
+			"longtable",
+			"tabular",
+			"longtable",
+			"share",
+			"share share share",
+			"chisquare_accuracy",
+			"accuracy",
+			"Accuracy",
+			"accuracy",
+			"Accuracy",
+			"accuracy",
+			"dataArray",
+			"attachment",
+			"Attachment",
+			"attachment",
+			"Attachment",
+			"attachment",
+			"m"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"''}.",
+			":",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 135.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"main",
+				"main.tex"
+			],
+			[
+				"ack",
+				"Preamble/acknowledgments.tex"
+			],
+			[
+				"gt",
+				"Appendix/04gt_detail.tex"
+			],
+			[
+				"result",
+				"Chapters/05results_analysis.tex"
+			],
+			[
+				"related",
+				"Chapters/03related.tex"
+			],
+			[
+				"me",
+				"Chapters/04methodology.tex"
+			],
+			[
+				"",
+				"Chapters/04methodology.tex"
+			],
+			[
+				"sms",
+				"Appendix/03sms_detail.tex"
+			],
+			[
+				"meth",
+				"Chapters/04methodology.tex"
+			],
+			[
+				"metho",
+				"Chapters/04methodology.tex"
+			],
+			[
+				"intro",
+				"Chapters/01introduction.tex"
+			],
+			[
+				"res",
+				"Chapters/05results_analysis.tex"
+			],
+			[
+				"measu",
+				"Appendix/05measurement.tex"
+			],
+			[
+				"ab",
+				"Preamble/abstract.tex"
+			],
+			[
+				"abs",
+				"Preamble/abstract.tex"
+			],
+			[
+				"abstr",
+				"Preamble/abstract.tex"
+			],
+			[
+				"model",
+				"Chapters/06model.tex"
+			],
+			[
+				"mode",
+				"Chapters/06model.tex"
+			],
+			[
+				"glo",
+				"glossary.tex"
+			],
+			[
+				"main.te",
+				"main.tex"
+			],
+			[
+				"resul",
+				"Chapters/05results_analysis.tex"
+			],
+			[
+				"gt_detail",
+				"Appendix/04gt_detail.tex"
+			],
+			[
+				"mea",
+				"Appendix/05measurement.tex"
+			],
+			[
+				"meas",
+				"Appendix/05measurement.tex"
+			],
+			[
+				"conclu",
+				"Chapters/08conclusions.aux"
+			],
+			[
+				"elem",
+				"emse_rssowl/repository/workspace_rssowl/org.rssowl.core/schema/ElementHandler.exsd"
+			],
+			[
+				"fuck",
+				"yatc/project_files/src/org/codehaus/jackson/map/type/ClassKey.java"
+			],
+			[
+				"civil",
+				"Civici D assalto.mov"
+			],
+			[
+				"downloads",
+				"emse_rssowl/repository/workspace_rssowl/org.rssowl.ui/src/org/rssowl/ui/internal/services/DownloadService.java"
+			],
+			[
+				"s",
+				"sdsa"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 184.0,
+	"status_bar_visible": true
+}

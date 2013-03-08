@@ -1,0 +1,200 @@
+%% This is file `elsarticle-template-1-num.tex',
+%%
+%% Copyright 2009 Elsevier Ltd
+%%
+%% This file is part of the 'Elsarticle Bundle'.
+%% ---------------------------------------------
+%%
+%% It may be distributed under the conditions of the LaTeX Project Public
+%% License, either version 1.2 of this license or (at your option) any
+%% later version.  The latest version of this license is in
+%%    http://www.latex-project.org/lppl.txt
+%% and version 1.2 or later is part of all distributions of LaTeX
+%% version 1999/12/01 or later.
+%%
+%% The list of all files belonging to the 'Elsarticle Bundle' is
+%% given in the file `manifest.txt'.
+%%
+%% Template article for Elsevier's document class `elsarticle'
+%% with numbered style bibliographic references
+%%
+%% $Id: elsarticle-template-1-num.tex 149 2009-10-08 05:01:15Z rishi $
+%% $URL: http://lenova.river-valley.com/svn/elsbst/trunk/elsarticle-template-1-num.tex $
+%%
+%%\documentclass[preprint,12pt]{elsarticle}
+
+%% Use the option review to obtain double line spacing
+%% \documentclass[preprint,review,12pt]{elsarticle}
+
+%% Use the options 1p,twocolumn; 3p; 3p,twocolumn; 5p; or 5p,twocolumn
+%% for a journal layout:
+%% \documentclass[final,1p,times]{elsarticle}
+%%\documentclass[final,1p,times,twocolumn]{elsarticle}
+%% \documentclass[final,3p,times]{elsarticle}
+%%\documentclass[final,3p,times,twocolumn]{elsarticle}
+%% \documentclass[final,5p,times]{elsarticle}
+\documentclass[final,5p,times,twocolumn]{elsarticle}
+
+%% if you use PostScript figures in your article
+%% use the graphics package for simple commands
+%% \usepackage{graphics}
+%% or use the graphicx package for more complicated commands
+%% \usepackage{graphicx}
+%% or use the epsfig package if you prefer to use the old commands
+%% \usepackage{epsfig}
+
+%% The amssymb package provides various useful mathematical symbols
+\usepackage{amssymb}
+
+%%extra packages ------ 
+\usepackage{longtable}   
+\usepackage{float} %allows the use of [H] to force positioning of figures
+\usepackage{subfigure}
+\usepackage{hyperref} %used in references now  --- it shoud be removed
+
+%%(end ) extra packages ----- 
+
+%% The amsthm package provides extended theorem environments
+%% \usepackage{amsthm}
+
+%% The lineno packages adds line numbers. Start line numbering with
+%% \begin{linenumbers}, end it with \end{linenumbers}. Or switch it on
+%% for the whole article with \linenumbers after \end{frontmatter}.
+%% \usepackage{lineno}
+
+%% natbib.sty is loaded by default. However, natbib options can be
+%% provided with \biboptions{...} command. Following options are
+%% valid:
+
+%%   round  -  round parentheses are used (default)
+%%   square -  square brackets are used   [option]
+%%   curly  -  curly braces are used      {option}
+%%   angle  -  angle brackets are used    <option>
+%%   semicolon  -  multiple citations separated by semi-colon
+%%   colon  - same as semicolon, an earlier confusion
+%%   comma  -  separated by comma
+%%   numbers-  selects numerical citations
+%%   super  -  numerical citations as superscripts
+%%   sort   -  sorts multiple citations according to order in ref. list
+%%   sort&compress   -  like sort, but also compresses numerical citations
+%%   compress - compresses without sorting
+%%
+%% \biboptions{comma,round}
+
+% \biboptions{}
+
+
+\journal{Information and Software Technology}
+
+\begin{document}
+
+\begin{frontmatter}
+
+%% Title, authors and addresses
+
+%% use the tnoteref command within \title for footnotes;
+%% use the tnotetext command for the associated footnote;
+%% use the fnref command within \author or \address for footnotes;
+%% use the fntext command for the associated footnote;
+%% use the corref command within \author for corresponding author footnotes;
+%% use the cortext command for the associated footnote;
+%% use the ead command for the email address,
+%% and the form \ead[url] for the home page:
+%%
+%% \title{Title\tnoteref{label1}}
+%% \tnotetext[label1]{}
+%% \author{Name\corref{cor1}\fnref{label2}}
+%% \ead{email address}
+%% \ead[url]{home page}
+%% \fntext[label2]{}
+%% \cortext[cor1]{}
+%% \address{Address\fnref{label3}}
+%% \fntext[label3]{}
+
+\title{Software development in startup companies: A systematic mapping study}
+
+%% use optional labels to link authors explicitly to addresses:
+%% \author[label1,label2]{<author name>}
+%% \address[label1]{<address>}
+%% \address[label2]{<address>}
+
+\tnotetext[bth]{Blekinge Institute of Technology}
+
+\author[bth]{Nicol\`{o} Paternoster}
+\author[bth]{Carmine Giardino}
+\author[bth]{Michael Unterkalmsteiner}
+\author[bth]{Tony Gorschek}
+
+\address[bth]{Software Engineering Research Lab, Blekinge Institute of Technology, SE-371 79 Karlskrona, Sweden}
+
+
+\begin{abstract}
+\small
+\textit{Context:} Software startups are newly created companies with no operating history and extremely fast in producing cutting-edge technologies. These companies develop software under highly-uncertain conditions, tackling fast-growing markets under severe lack of resources. Therefore, especially in the early stage, software startups present an unique combination of characteristics which pose several challenges to software development activities. \\
+\textit{Objective:} The objective of this paper is to structure and analyze the literature as regards software development in startup companies to identify state-of-the-art research and understand primary challenges for practitioners and researchers.\\
+\textit{Method:} A systematic mapping study has been performed applying a wide-range of related search terms to key electronic databases and selecting relevant papers. Then we extracted information from metadata, summarized their findings, created the systematic map applying a classification schema, performed a systematic evaluation of rigor and relevance, and finally ranked the selected studies.\\
+\textit{Results:} A total of 37 studies were selected, classified and evaluated from an initial set of 943 articles. Only 14 papers are entirely dedicated to software development in startups, and 9 of those produced a weak contribution (advice and implications (5); lesson learned (3); tool (1)). 16 Studies are focused on managerial and organizational factors, which are only relatively interesting under a SE perspective. Moreover the studies are generally not rigorously designed and cover only small samples of startups.\\
+\textit{Conclusion:} The mapping study provides the first systematic summary of the literature pertained to software development in startup companies which offer to researchers an overview of the current state-of-the-art. Although the results attest an increased interest in the multifaceted challenges posed by startups in recent years, they reveal several gaps that need to be addressed.
+\end{abstract}
+
+
+
+\begin{keyword}
+%% keywords here, in the form: keyword \sep keyword
+\small
+Software Development \sep Startups \sep Systematic Mapping Study
+
+
+%% MSC codes here, in the form: \MSC code \sep code
+%% or \MSC[2008] code \sep code (2000 is the default)
+
+\end{keyword}
+
+
+%%DELETE THIS PART
+\onecolumn
+\tableofcontents %Table of content
+\twocolumn
+%%DELETE THIS PART
+
+
+\end{frontmatter}
+
+%%
+%% Start line numbering here if you want
+%%
+%\linenumbers
+
+%% main text
+
+
+\small
+\section{Introduction}  %-------- ## ----------------- ## ----------------- ## ----------------- ## ----------------- ## ---------
+ \label{sect:intro} 
+A wide body of knowledge has been created in recent years through several empirical studies , investigating how companies leverage software engineering (SE) \cite{Kitchenham2009}. Despite many researches conducted in companies of different sizes and in different market types focus on software development activities, startups have been almost neglected by SE research \cite{Sutton2000}. In particular all the software development activities oriented to the product, critical for the survival of a newly created company, are not thoroughly supported by the existing publication fora. In fact, very few publications have identified, characterized and mapped work practices in software startups \cite{Sutton2000}.
+
+Hence, understanding how startups take advantage from work practices is essential to support the impressive number of new businesses launched everyday\footnote{According to a recent study, solely in the US \textit{``startups create an average of 3 million new jobs annually''} \cite{Formation2010}.}. New software ventures such as \textit{Facebook}, \textit{Linkedin}, \textit{Spotify}, \textit{Pinterest}, \textit{Instagram}, and \textit{Dropbox}, to name a few, are good examples of startups that evolved into successful businesses. Startups typically aim to create high-tech and innovative products\footnote{In this study we use the term \textit{``product''} for both software products and software services.}, and grow by aggressively expanding their business in highly scalable markets.
+
+But, despite many successful stories, the great majority of startups fail within two years from their creation, primarily due to self-destruction rather than competition \cite{Crowne2002}. Operating in a chaotic, rapidly evolving and uncertain domain, startups face intense time-pressure from the market and are exposed to tough competition \cite{Maccormack2001, Eisenhardt1998}. In order to succeed in this environment, it is crucial to choose the right features to build  and be able to quickly adapt the product to new requests constrained by very limited amount of resources \cite{Sutton2000}.
+
+From a software engineering perspective startups are unique, since they develop software in a context where processes can hardly follow a prescriptive methodology \cite{Coleman2008}. Furthermore, despite startups share some characteristics with other domains such as small companies and web engineering, present a combination of different factors that makes the development context different from established companies \cite{Blank2005}. Indeed, more research is needed to support their engineering activities guiding practitioners in taking decisions and avoiding choices that could easily lead the whole business to failure \cite{Kajko-Mattsson2008,Coleman2005}.
+
+However, the state of the art regarding software engineering in startups  appears to be highly fragmented. For this reason in this study we perform a systematic mapping, aiming to:
+\begin{itemize}
+
+\item Identify the publication fora and its quality.
+\item Understand how authors report characteristics of startups.
+\item Extract and discuss work practices identified by authors.
+\end{itemize}
+
+The results presented in this paper can foster future studies in exploiting weak and uncharted  research topics revealed by the analysis of the existing studies.
+
+The remains of this paper is structured as following: in Section we do this in Section we do thatin Section we do thatin Section we do thatin Section we do thatin Section we do thatin Section we do thatin Section we do thatin Section we do thatin Section we do thatin Section we do thatin Section we do thatin Section we do thatin Section we do thatin Section we do thatin Section we do thatin Section we do thatin Section we do that.
+
+
+
+
+\bibliographystyle{model1-num-names}
+\bibliography{ist}
+
+\end{document}

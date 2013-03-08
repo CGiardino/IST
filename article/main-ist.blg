@@ -1,0 +1,74 @@
+This is BibTeX, Version 0.99d (TeX Live 2012)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: main-ist.aux
+The style file: model1-num-names.bst
+Database file #1: ist.bib
+Warning--to sort, need author or key in TechnicalDebtCunn
+Warning--to sort, need author or key in workshopDebt
+Warning--to sort, need author or key in compendex
+Warning--to sort, need author or key in ACMsearch
+Warning--to sort, need author or key in IEEExpl
+Warning--to sort, need author or key in ISIweb
+Warning--to sort, need author or key in scopus
+Warning--to sort, need author or key in gScholar
+Warning--to sort, need author or key in bibdesk
+Warning--to sort, need author or key in ThielCS183
+Warning--empty pages in sawyer99
+Warning--empty pages in Karlsson02challengesin
+Warning--empty pages in dahl2003
+Warning--empty year in TechnicalDebtCunn; set to ????
+Warning--empty year in workshopDebt; set to ????
+Warning--can't use both volume and number fields in Petersen2007
+Warning--empty year in compendex; set to ????
+Warning--empty year in ACMsearch; set to ????
+Warning--empty year in IEEExpl; set to ????
+Warning--empty year in ISIweb; set to ????
+Warning--empty year in scopus; set to ????
+Warning--empty year in gScholar; set to ????
+Warning--empty year in bibdesk; set to ????
+Warning--empty pages in Stanfill2007
+Warning--empty pages in Yogendra2002
+Warning--can't use both volume and number fields in 1456074
+Warning--empty year in ThielCS183; set to ????
+You've used 109 entries,
+            2616 wiz_defined-function locations,
+            1227 strings with 22519 characters,
+and the built_in function-call counts, 58220 in all, are:
+= -- 4623
+> -- 2041
+< -- 102
++ -- 795
+- -- 669
+* -- 6436
+:= -- 8776
+add.period$ -- 110
+call.type$ -- 109
+change.case$ -- 743
+chr.to.int$ -- 108
+cite$ -- 156
+duplicate$ -- 3904
+empty$ -- 4091
+format.name$ -- 950
+if$ -- 10867
+int.to.chr$ -- 2
+int.to.str$ -- 1
+missing$ -- 808
+newline$ -- 485
+num.names$ -- 396
+pop$ -- 1032
+preamble$ -- 1
+purify$ -- 758
+quote$ -- 0
+skip$ -- 1402
+stack$ -- 0
+substring$ -- 2950
+swap$ -- 3106
+text.length$ -- 30
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 945
+warning$ -- 27
+while$ -- 434
+width$ -- 0
+write$ -- 1363
+(There were 27 warnings)

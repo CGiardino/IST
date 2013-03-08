@@ -1,0 +1,753 @@
+\begin{thebibliography}{109}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+\providecommand{\bibinfo}[2]{#2}
+\ifx\xfnm\relax \def\xfnm[#1]{\unskip,\space#1}\fi
+%Type = Article
+\bibitem[{Kitchenham et~al.(2009)Kitchenham, {Pearl Brereton}, Budgen, Turner,
+  Bailey, and Linkman}]{Kitchenham2009}
+\bibinfo{author}{B.~Kitchenham}, \bibinfo{author}{O.~{Pearl Brereton}},
+  \bibinfo{author}{D.~Budgen}, \bibinfo{author}{M.~Turner},
+  \bibinfo{author}{J.~Bailey}, \bibinfo{author}{S.~Linkman},
+\newblock \bibinfo{title}{{Systematic literature reviews in software
+  engineering -- A systematic literature review}},
+\newblock \bibinfo{journal}{Information and Software Technology}
+  \bibinfo{volume}{51} (\bibinfo{year}{2009}) \bibinfo{pages}{7--15}.
+%Type = Article
+\bibitem[{Sutton(2000)}]{Sutton2000}
+\bibinfo{author}{S.~M. Sutton},
+\newblock \bibinfo{title}{{The role of process in software start-up}},
+\newblock \bibinfo{journal}{IEEE Software} \bibinfo{volume}{17}
+  (\bibinfo{year}{2000}) \bibinfo{pages}{33--39}.
+%Type = Techreport
+\bibitem[{Kane(2010)}]{Formation2010}
+\bibinfo{author}{T.~Kane}, \bibinfo{title}{{The Importance of Startups in Job
+  Creation and Job Destruction}}, \bibinfo{type}{Technical Report}, Kauffman
+  Foundation, \bibinfo{year}{2010}.
+%Type = Inproceedings
+\bibitem[{Crowne(2002)}]{Crowne2002}
+\bibinfo{author}{M.~Crowne},
+\newblock \bibinfo{title}{{Why software product startups fail and what to do
+  about it}},
+\newblock in: \bibinfo{booktitle}{Proceedings of 2002 IEEE International
+  Engineering}, pp. \bibinfo{pages}{338--343}.
+%Type = Article
+\bibitem[{Maccormack(2001)}]{Maccormack2001}
+\bibinfo{author}{A.~Maccormack},
+\newblock \bibinfo{title}{{How Internet Companies Build Software}},
+\newblock \bibinfo{journal}{MIT Sloan Management Review}
+  (\bibinfo{year}{2001}) \bibinfo{pages}{75--84}.
+%Type = Article
+\bibitem[{Eisenhardt and Brown(1998)}]{Eisenhardt1998}
+\bibinfo{author}{K.~M. Eisenhardt}, \bibinfo{author}{S.~L. Brown},
+\newblock \bibinfo{title}{{Time pacing: competing in markets that won't stand
+  still.}},
+\newblock \bibinfo{journal}{Harvard Business Review} \bibinfo{volume}{76}
+  (\bibinfo{year}{1998}) \bibinfo{pages}{59--69}.
+%Type = Article
+\bibitem[{Coleman and O'Connor(2008)}]{Coleman2008}
+\bibinfo{author}{G.~Coleman}, \bibinfo{author}{R.~V. O'Connor},
+\newblock \bibinfo{title}{{An investigation into software development process
+  formation in software start-ups}},
+\newblock \bibinfo{journal}{Journal of Enterprise Information Management}
+  \bibinfo{volume}{21} (\bibinfo{year}{2008}) \bibinfo{pages}{633--648}.
+%Type = Book
+\bibitem[{Blank(2005)}]{Blank2005}
+\bibinfo{author}{S.~Blank}, \bibinfo{title}{{The four steps to the epiphany}},
+  \bibinfo{publisher}{Cafepress. com}, \bibinfo{year}{2005}.
+%Type = Incollection
+\bibitem[{Kajko-Mattsson and Nikitina(2008)}]{Kajko-Mattsson2008}
+\bibinfo{author}{M.~Kajko-Mattsson}, \bibinfo{author}{N.~Nikitina},
+\newblock \bibinfo{title}{{From Knowing Nothing to Knowing a Little:
+  Experiences Gained from Process Improvement in a Start-Up Company}},
+\newblock in: \bibinfo{booktitle}{2008 International Conference on Computer
+  Science and Software Engineering}, \bibinfo{publisher}{IEEE},
+  \bibinfo{year}{2008}, pp. \bibinfo{pages}{617--621}.
+%Type = Inproceedings
+\bibitem[{Coleman(2005)}]{Coleman2005}
+\bibinfo{author}{G.~Coleman},
+\newblock \bibinfo{title}{{An empirical study of software process in
+  practice}},
+\newblock in: \bibinfo{booktitle}{Proceedings of the 38th Annual Hawaii
+  International Conference on System Sciences}, volume~\bibinfo{volume}{00}, p.
+  \bibinfo{pages}{315c}.
+%Type = Book
+\bibitem[{Storey(1982)}]{storey1982entrepreneurship}
+\bibinfo{author}{D.~Storey}, \bibinfo{title}{Entrepreneurship and the New
+  Firm}, \bibinfo{publisher}{Croom Helm}, \bibinfo{year}{1982}.
+%Type = Book
+\bibitem[{Perkins and Perkins(1999)}]{Perkins:1999:IBI:555126}
+\bibinfo{author}{A.~B. Perkins}, \bibinfo{author}{M.~C. Perkins},
+  \bibinfo{title}{The Internet Bubble: Inside the Overvalued World of High-Tech
+  Stocks -- And What You Need to Know to Avoid the Coming Catastrophe},
+  \bibinfo{publisher}{HarperInformation}, \bibinfo{year}{1999}.
+%Type = Techreport
+\bibitem[{Marmer et~al.(2011)Marmer, Herrmann, Dogrultan, Berman, Eesley, and
+  Blank}]{Marmer2011}
+\bibinfo{author}{M.~Marmer}, \bibinfo{author}{B.~L. Herrmann},
+  \bibinfo{author}{E.~Dogrultan}, \bibinfo{author}{R.~Berman},
+  \bibinfo{author}{C.~Eesley}, \bibinfo{author}{S.~Blank},
+  \bibinfo{title}{{Startup Genome Report Extra: Premature Scaling}},
+  \bibinfo{type}{Technical Report}, Startup Genome, \bibinfo{year}{2011}.
+%Type = Article
+\bibitem[{Grimaldi and Grandi(2005)}]{Grimaldi2005}
+\bibinfo{author}{R.~Grimaldi}, \bibinfo{author}{A.~Grandi},
+\newblock \bibinfo{title}{{Business incubators and new venture creation: an
+  assessment of incubating models}},
+\newblock \bibinfo{journal}{Technovation} \bibinfo{volume}{25}
+  (\bibinfo{year}{2005}) \bibinfo{pages}{111--121}.
+%Type = Book
+\bibitem[{Christensen(1997)}]{Christensen1997}
+\bibinfo{author}{C.~M. Christensen}, \bibinfo{title}{{The Innovator's
+  Dilemma}}, \bibinfo{publisher}{Harvard Business School Press},
+  \bibinfo{year}{1997}.
+%Type = Article
+\bibitem[{Chroust(1996)}]{Chroust1996}
+\bibinfo{author}{G.~Chroust},
+\newblock \bibinfo{title}{{What is a software process?}},
+\newblock \bibinfo{journal}{Journal of Systems Architecture}
+  \bibinfo{volume}{42} (\bibinfo{year}{1996}) \bibinfo{pages}{591--600}.
+%Type = Article
+\bibitem[{Coleman and Oconnor(2008)}]{Coleman2008a}
+\bibinfo{author}{G.~Coleman}, \bibinfo{author}{R.~Oconnor},
+\newblock \bibinfo{title}{{Investigating software process in practice: A
+  grounded theory perspective}},
+\newblock \bibinfo{journal}{Journal of Systems and Software}
+  \bibinfo{volume}{81} (\bibinfo{year}{2008}) \bibinfo{pages}{772--784}.
+%Type = Article
+\bibitem[{Bach(1998)}]{Bach1998}
+\bibinfo{author}{J.~Bach},
+\newblock \bibinfo{title}{Microdynamics of process evolution},
+\newblock \bibinfo{journal}{Computer} \bibinfo{volume}{31}
+  (\bibinfo{year}{1998}) \bibinfo{pages}{111--113}.
+%Type = Inproceedings
+\bibitem[{Heitlager et~al.(2007)Heitlager, Helms, and
+  Brinkkemper}]{Heitlager2007}
+\bibinfo{author}{I.~Heitlager}, \bibinfo{author}{R.~Helms},
+  \bibinfo{author}{S.~Brinkkemper},
+\newblock \bibinfo{title}{A tentative technique for the study and planning of
+  co-evolution in product},
+\newblock in: \bibinfo{booktitle}{Software Evolvability, 2007 Third
+  International IEEE Workshop on}, pp. \bibinfo{pages}{42 --47}.
+%Type = Article
+\bibitem[{Martin and Hoffman(2007)}]{Martin2007}
+\bibinfo{author}{K.~Martin}, \bibinfo{author}{B.~Hoffman},
+\newblock \bibinfo{title}{An open source approach to developing software in a
+  small organization},
+\newblock \bibinfo{journal}{Software, IEEE} \bibinfo{volume}{24}
+  (\bibinfo{year}{2007}) \bibinfo{pages}{46 --53}.
+%Type = Book
+\bibitem[{Cockburn(1998)}]{surviving-os-cockburn}
+\bibinfo{author}{A.~Cockburn}, \bibinfo{title}{Surviving Object-Oriented
+  Projects}, \bibinfo{publisher}{Addison-Wesley Professional},
+  \bibinfo{year}{1998}.
+%Type = Inproceedings
+\bibitem[{Tanabian(2005)}]{Tanabian2005}
+\bibinfo{author}{M.~Tanabian},
+\newblock \bibinfo{title}{{Building high-performance team through effective job
+  design for an early stage software start-up}},
+\newblock in: \bibinfo{booktitle}{Management Conference}, pp.
+  \bibinfo{pages}{789--792}.
+%Type = Article
+\bibitem[{Chorev and Anderson(2006)}]{Chorev2006}
+\bibinfo{author}{S.~Chorev}, \bibinfo{author}{A.~R. Anderson},
+\newblock \bibinfo{title}{{Success in Israeli high-tech start-ups; Critical
+  factors and process}},
+\newblock \bibinfo{journal}{Technovation} \bibinfo{volume}{26}
+  (\bibinfo{year}{2006}) \bibinfo{pages}{162--174}.
+%Type = Article
+\bibitem[{Kakati(2003)}]{Kakati2003}
+\bibinfo{author}{M.~Kakati},
+\newblock \bibinfo{title}{{Success criteria in high-tech new ventures}},
+\newblock \bibinfo{journal}{Technovation} \bibinfo{volume}{23}
+  (\bibinfo{year}{2003}) \bibinfo{pages}{447--457}.
+%Type = Techreport
+\bibitem[{Marmer et~al.(2012)Marmer, Herrmann, Dogrultan, Berman, Eesley, and
+  Blank}]{genome2012}
+\bibinfo{author}{M.~Marmer}, \bibinfo{author}{B.~L. Herrmann},
+  \bibinfo{author}{E.~Dogrultan}, \bibinfo{author}{R.~Berman},
+  \bibinfo{author}{C.~Eesley}, \bibinfo{author}{S.~Blank}, \bibinfo{title}{The
+  Startup Ecosystem Report 2012}, \bibinfo{type}{Technical Report}, Startup
+  Genome, \bibinfo{year}{2012}.
+%Type = Techreport
+\bibitem[{Alves et~al.(2006)Alves, Pereira, and Castro}]{Alves2006}
+\bibinfo{author}{C.~Alves}, \bibinfo{author}{S.~Pereira},
+  \bibinfo{author}{J.~Castro}, \bibinfo{title}{{A Study in Market-Driven
+  Requirements Engineering}}, \bibinfo{type}{Technical Report}, Universidade
+  Federal de Pernambuco, \bibinfo{year}{2006}.
+%Type = Phdthesis
+\bibitem[{Johan~Natt(2002)}]{dagMDR}
+\bibinfo{author}{O.~D. Johan~Natt}, \bibinfo{title}{Elicitation and management
+  of user requirements in market-driven software development}, Ph.D. thesis,
+  Department of Communication Systems Lund Institute of Technology,
+  \bibinfo{year}{2002}.
+%Type = Inproceedings
+\bibitem[{Sawyer et~al.(1999)Sawyer, Sommerville, and Kotonya}]{sawyer99}
+\bibinfo{author}{P.~Sawyer}, \bibinfo{author}{I.~Sommerville},
+  \bibinfo{author}{G.~Kotonya},
+\newblock \bibinfo{title}{Improving market-driven re processes},
+\newblock in: \bibinfo{booktitle}{International Conference on Product-Focused
+  Software Process Improvement (Profes '99)}.
+%Type = Inproceedings
+\bibitem[{Potts(1995)}]{512553}
+\bibinfo{author}{C.~Potts},
+\newblock \bibinfo{title}{Invented requirements and imagined customers:
+  requirements engineering for off-the-shelf software},
+\newblock in: \bibinfo{booktitle}{Requirements Engineering, 1995., Proceedings
+  of the Second IEEE International Symposium on}, pp. \bibinfo{pages}{128 --
+  130}.
+%Type = Inproceedings
+\bibitem[{Karlsson et~al.(2002)Karlsson, Dahlstedt, Dag, Regnell, and
+  Persson}]{Karlsson02challengesin}
+\bibinfo{author}{L.~Karlsson}, \bibinfo{author}{{\AA}.~G. Dahlstedt},
+  \bibinfo{author}{J.~N.~O. Dag}, \bibinfo{author}{B.~Regnell},
+  \bibinfo{author}{A.~Persson},
+\newblock \bibinfo{title}{Challenges in market-driven requirements engineering
+  - an industrial interview study},
+\newblock in: \bibinfo{booktitle}{Proceedings of the Eighth International
+  Workshop on Requirements Engineering: Foundation for Software Quality
+  (REFSQ'02}.
+%Type = Inproceedings
+\bibitem[{A.(2003)}]{dahl2003}
+\bibinfo{author}{D.~A.},
+\newblock \bibinfo{title}{Study of current practices in marketdriven
+  requirements engineering},
+\newblock in: \bibinfo{booktitle}{Third Conference for the Promotion of
+  Research in IT}, \bibinfo{address}{University Colleges Sweden}.
+%Type = Article
+\bibitem[{Keil and Carmel(1995)}]{Keil:1995}
+\bibinfo{author}{M.~Keil}, \bibinfo{author}{E.~Carmel},
+\newblock \bibinfo{title}{Customer-developer links in software development},
+\newblock \bibinfo{journal}{Commun. ACM} \bibinfo{volume}{38}
+  (\bibinfo{year}{1995}) \bibinfo{pages}{33--44}.
+%Type = Article
+\bibitem[{Coleman and O'Connor(2007)}]{Coleman2007}
+\bibinfo{author}{G.~Coleman}, \bibinfo{author}{R.~O'Connor},
+\newblock \bibinfo{title}{{Using grounded theory to understand software process
+  improvement: A study of Irish software product companies}},
+\newblock \bibinfo{journal}{Information and Software Technology}
+  \bibinfo{volume}{49} (\bibinfo{year}{2007}) \bibinfo{pages}{654--667}.
+%Type = Misc
+\bibitem[{Tec(????)}]{TechnicalDebtCunn}
+\bibinfo{howpublished}{W. Cunningham. The WyCash Portfolio Management System.
+  [Online]. Available: \url{http://c2.com/doc/oopsla92.html} (Accessed : Sep.
+  15, 2012).}, ????
+%Type = Inproceedings
+\bibitem[{Nugroho et~al.(2011)Nugroho, Visser, and Kuipers}]{Nugroho2011}
+\bibinfo{author}{A.~Nugroho}, \bibinfo{author}{J.~Visser},
+  \bibinfo{author}{T.~Kuipers},
+\newblock \bibinfo{title}{An empirical model of technical debt and interest},
+\newblock in: \bibinfo{booktitle}{Proceedings of the 2nd Workshop on Managing
+  Technical Debt}, MTD '11, \bibinfo{publisher}{ACM}, \bibinfo{address}{New
+  York, NY, USA}, \bibinfo{year}{2011}, pp. \bibinfo{pages}{1--8}.
+%Type = Inproceedings
+\bibitem[{Izurieta et~al.(2012)Izurieta, Vetr\`{o}, and
+  Zazworka}]{Izurieta2012}
+\bibinfo{author}{C.~Izurieta}, \bibinfo{author}{A.~Vetr\`{o}},
+  \bibinfo{author}{N.~Zazworka},
+\newblock \bibinfo{title}{{Organizing the technical debt landscape}},
+\newblock in: \bibinfo{booktitle}{Workshop on Managing Technical Debt (MTD),
+  2012 Third International}, pp. \bibinfo{pages}{23--26}.
+%Type = Misc
+\bibitem[{wor(????)}]{workshopDebt}
+\bibinfo{howpublished}{Third international workshop on Managing Technical Debt.
+  [Online]. Available: \url{http://www.sei.cmu.edu/community/td2012/} (Accessed
+  : Sep. 15, 2012).}, ????
+%Type = Inproceedings
+\bibitem[{Brown et~al.(2010)Brown, Cai, Guo, Kazman, Kim, Kruchten, Lim,
+  MacCormack, Nord, Ozkaya, Sangwan, Seaman, Sullivan, and
+  Zazworka}]{Brown:2010:MTD:1882362.1882373}
+\bibinfo{author}{N.~Brown}, \bibinfo{author}{Y.~Cai}, \bibinfo{author}{Y.~Guo},
+  \bibinfo{author}{R.~Kazman}, \bibinfo{author}{M.~Kim},
+  \bibinfo{author}{P.~Kruchten}, \bibinfo{author}{E.~Lim},
+  \bibinfo{author}{A.~MacCormack}, \bibinfo{author}{R.~Nord},
+  \bibinfo{author}{I.~Ozkaya}, \bibinfo{author}{R.~Sangwan},
+  \bibinfo{author}{C.~Seaman}, \bibinfo{author}{K.~Sullivan},
+  \bibinfo{author}{N.~Zazworka},
+\newblock \bibinfo{title}{Managing technical debt in software-reliant systems},
+\newblock in: \bibinfo{booktitle}{Proceedings of the FSE/SDP workshop on Future
+  of software engineering research}, \bibinfo{address}{New York, NY, USA}, pp.
+  \bibinfo{pages}{47--52}.
+%Type = Inproceedings
+\bibitem[{Petersen et~al.(2007)Petersen, Feldt, Mujtaba, and
+  Mattsson}]{Petersen2007}
+\bibinfo{author}{K.~Petersen}, \bibinfo{author}{R.~Feldt},
+  \bibinfo{author}{S.~Mujtaba}, \bibinfo{author}{M.~Mattsson},
+\newblock \bibinfo{title}{{Systematic Mapping Studies in Software
+  Engineering}},
+\newblock in: \bibinfo{booktitle}{12th International Conference on Evaluation
+  and Assessment in Software Engineering}, volume~\bibinfo{volume}{17}, pp.
+  \bibinfo{pages}{1--10}.
+%Type = Techreport
+\bibitem[{Kitchenham and Charters(2007)}]{Kitchenham2007}
+\bibinfo{author}{B.~Kitchenham}, \bibinfo{author}{S.~Charters},
+  \bibinfo{title}{Guidelines for performing {S}ystematic {L}iterature {R}eviews
+  in {S}oftware {E}ngineering}, \bibinfo{type}{Technical Report}
+  \bibinfo{number}{EBSE 2007-001}, Keele University and Durham University Joint
+  Report, \bibinfo{year}{2007}.
+%Type = Article
+\bibitem[{Dyb\aa et~al.(2006)Dyb\aa, Kampenes, and Sj\o~berg}]{Dyba2006}
+\bibinfo{author}{T.~Dyb\aa}, \bibinfo{author}{V.~B. Kampenes},
+  \bibinfo{author}{D.~I. Sj\o~berg},
+\newblock \bibinfo{title}{{A systematic review of statistical power in software
+  engineering experiments}},
+\newblock \bibinfo{journal}{Information and Software Technology}
+  \bibinfo{volume}{48} (\bibinfo{year}{2006}) \bibinfo{pages}{745--755}.
+%Type = Inproceedings
+\bibitem[{Budgen et~al.(2008)Budgen, Turner, Brereton, and
+  Kitchenham}]{Budgen2007}
+\bibinfo{author}{D.~Budgen}, \bibinfo{author}{M.~Turner},
+  \bibinfo{author}{P.~Brereton}, \bibinfo{author}{B.~Kitchenham},
+\newblock \bibinfo{title}{Using {M}apping {S}tudies in {S}oftware
+  {E}ngineering},
+\newblock in: \bibinfo{booktitle}{Proceedings of PPIG 2008},
+  \bibinfo{publisher}{Lancaster University}, \bibinfo{year}{2008}, pp.
+  \bibinfo{pages}{195--204}.
+%Type = Book
+\bibitem[{Rumsey(2008)}]{how-find-information}
+\bibinfo{author}{S.~Rumsey}, \bibinfo{title}{How to find information : a guide
+  for researchers}, \bibinfo{publisher}{McGraw-Hill}, \bibinfo{year}{2008}.
+%Type = Misc
+\bibitem[{com(????)}]{compendex}
+\bibinfo{howpublished}{Engineering Village. [Online]. Available:
+  \url{http://www.engineeringvillage2.org/} (Accessed : Aug. 25, 2012).}, ????
+%Type = Misc
+\bibitem[{ACM(????)}]{ACMsearch}
+\bibinfo{howpublished}{ACM Search. [Online]. Available:
+  \url{http://dl.acm.org/advsearch.cfm} (Accessed : Aug. 25, 2012).}, ????
+%Type = Misc
+\bibitem[{IEE(????)}]{IEEExpl}
+\bibinfo{howpublished}{IEEExplore. [Online]. Available:
+  \url{http://ieeexplore.ieee.org/} (Accessed : Aug. 25, 2012).}, ????
+%Type = Misc
+\bibitem[{ISI(????)}]{ISIweb}
+\bibinfo{howpublished}{Web of Knowledge. [Online]. Available:
+  \url{http://wokinfo.com/} (Accessed : Aug. 25, 2012).}, ????
+%Type = Misc
+\bibitem[{sco(????)}]{scopus}
+\bibinfo{howpublished}{Scopus. [Online]. Available:
+  \url{http://www.scopus.com/} (Accessed : Aug. 25, 2012).}, ????
+%Type = Misc
+\bibitem[{gSc(????)}]{gScholar}
+\bibinfo{howpublished}{Google Scholar. [Online]. Available:
+  \url{http://scholar.google.com/} (Accessed : Aug. 25, 2012).}, ????
+%Type = Misc
+\bibitem[{bib(????)}]{bibdesk}
+\bibinfo{howpublished}{BibDesk. [Online]. Available:
+  \url{http://bibdesk.sourceforge.net/} (Accessed : Aug. 25, 2012).}, ????
+%Type = Article
+\bibitem[{Dyb\aa and Dings\o~yr(2008)}]{Dyba2008}
+\bibinfo{author}{T.~Dyb\aa}, \bibinfo{author}{T.~Dings\o~yr},
+\newblock \bibinfo{title}{{Empirical studies of agile software development: A
+  systematic review}},
+\newblock \bibinfo{journal}{Information and Software Technology}
+  \bibinfo{volume}{50} (\bibinfo{year}{2008}) \bibinfo{pages}{833--859}.
+%Type = Article
+\bibitem[{Jorgensen and Shepperd(2007)}]{Shepperd2007}
+\bibinfo{author}{M.~Jorgensen}, \bibinfo{author}{M.~Shepperd},
+\newblock \bibinfo{title}{A systematic review of software development cost
+  estimation studies},
+\newblock \bibinfo{journal}{Software Engineering, IEEE Transactions on}
+  \bibinfo{volume}{33} (\bibinfo{year}{2007}) \bibinfo{pages}{33 --53}.
+%Type = Article
+\bibitem[{Sayers(2007)}]{snowballing}
+\bibinfo{author}{A.~Sayers},
+\newblock \bibinfo{title}{Tips and tricks in performing a systematic review},
+\newblock \bibinfo{journal}{Br J Gen Practice} \bibinfo{volume}{1}
+  (\bibinfo{year}{2007}) \bibinfo{pages}{542--759}.
+%Type = Article
+\bibitem[{Ivarsson and Gorschek(2010)}]{Ivarsson2010}
+\bibinfo{author}{M.~Ivarsson}, \bibinfo{author}{T.~Gorschek},
+\newblock \bibinfo{title}{{A method for evaluating rigor and industrial
+  relevance of technology evaluations}},
+\newblock \bibinfo{journal}{Empirical Software Engineering}
+  \bibinfo{volume}{16} (\bibinfo{year}{2010}) \bibinfo{pages}{365--395}.
+%Type = Article
+\bibitem[{Ivarsson and Gorschek(2009)}]{IvarssonGorsREj}
+\bibinfo{author}{M.~Ivarsson}, \bibinfo{author}{T.~Gorschek},
+\newblock \bibinfo{title}{Technology transfer decision support in requirements
+  engineering research: a systematic review of rej},
+\newblock \bibinfo{journal}{Requir. Eng.} \bibinfo{volume}{14}
+  (\bibinfo{year}{2009}) \bibinfo{pages}{155--175}.
+%Type = Article
+\bibitem[{Unterkalmsteiner et~al.(2012)Unterkalmsteiner, Gorschek, Islam,
+  Cheng, Permadi, and Feldt}]{Unterkalmsteiner2012}
+\bibinfo{author}{M.~Unterkalmsteiner}, \bibinfo{author}{T.~Gorschek},
+  \bibinfo{author}{A.~Islam}, \bibinfo{author}{C.~K. Cheng},
+  \bibinfo{author}{R.~Permadi}, \bibinfo{author}{R.~Feldt},
+\newblock \bibinfo{title}{Evaluation and measurement of software process
+  improvement -- a systematic literature review},
+\newblock \bibinfo{journal}{Software Engineering, IEEE Transactions on}
+  \bibinfo{volume}{38} (\bibinfo{year}{2012}) \bibinfo{pages}{398 --424}.
+%Type = Inproceedings
+\bibitem[{Saracevic(1995)}]{Saracevic1995}
+\bibinfo{author}{T.~Saracevic},
+\newblock \bibinfo{title}{Evaluation of evaluation in information retrieval},
+\newblock in: \bibinfo{booktitle}{Proceedings of the 18th annual international
+  ACM SIGIR conference on Research and development in information retrieval},
+  SIGIR '95, \bibinfo{publisher}{ACM}, \bibinfo{address}{New York, NY, USA},
+  \bibinfo{year}{1995}, pp. \bibinfo{pages}{138--146}.
+%Type = Article
+\bibitem[{Wood et~al.(1999)Wood, Daly, Miller, and Roper}]{Wood}
+\bibinfo{author}{M.~Wood}, \bibinfo{author}{J.~Daly},
+  \bibinfo{author}{J.~Miller}, \bibinfo{author}{M.~Roper},
+\newblock \bibinfo{title}{Multi-method research: an empirical investigation of
+  object-oriented technology},
+\newblock \bibinfo{journal}{Journal of Systems and Software}
+  \bibinfo{volume}{48} (\bibinfo{year}{1999}) \bibinfo{pages}{13--26}.
+%Type = Techreport
+\bibitem[{Kasunic(2005)}]{Kasunic2005}
+\bibinfo{author}{M.~Kasunic}, \bibinfo{title}{{Designing an Effective Survey}},
+  \bibinfo{type}{Technical Report}, Carnegie Mellon Software Engineering
+  Institute, \bibinfo{year}{2005}.
+%Type = Article
+\bibitem[{Wieringa et~al.(2005)Wieringa, Maiden, Mead, and
+  Rolland}]{Wieringa:2005}
+\bibinfo{author}{R.~Wieringa}, \bibinfo{author}{N.~Maiden},
+  \bibinfo{author}{N.~Mead}, \bibinfo{author}{C.~Rolland},
+\newblock \bibinfo{title}{Requirements engineering paper classification and
+  evaluation criteria: a proposal and a discussion},
+\newblock \bibinfo{journal}{Requir. Eng.} \bibinfo{volume}{11}
+  (\bibinfo{year}{2005}) \bibinfo{pages}{102--107}.
+%Type = Inproceedings
+\bibitem[{Shaw(2003)}]{Shaw2003}
+\bibinfo{author}{M.~Shaw},
+\newblock \bibinfo{title}{Writing good software engineering research papers},
+\newblock in: \bibinfo{booktitle}{International Conference on Software
+  Engineering, Proceedings. 25th}, pp. \bibinfo{pages}{726 -- 736}.
+%Type = Article
+\bibitem[{H\"{a}sel et~al.(2010)H\"{a}sel, Breugst, and Kollmann}]{Hasel2010}
+\bibinfo{author}{M.~H\"{a}sel}, \bibinfo{author}{N.~Breugst},
+  \bibinfo{author}{T.~Kollmann},
+\newblock \bibinfo{title}{{IT Competence in Internet Founder Teams An Analysis
+  of Preferences and Product Innovativity}},
+\newblock \bibinfo{journal}{Business \& Information System Engineering}
+  \bibinfo{volume}{52} (\bibinfo{year}{2010}) \bibinfo{pages}{210--217}.
+%Type = Article
+\bibitem[{Hanna and Daim(2010)}]{Hanna2010}
+\bibinfo{author}{R.~Hanna}, \bibinfo{author}{T.~U. Daim},
+\newblock \bibinfo{title}{{Information technology acquisition in the service
+  sector}},
+\newblock \bibinfo{journal}{International Journal of Services Sciences}
+  \bibinfo{volume}{3} (\bibinfo{year}{2010}) \bibinfo{pages}{21}.
+%Type = Article
+\bibitem[{Deakins and Dillon(2005)}]{Deakins2005}
+\bibinfo{author}{E.~Deakins}, \bibinfo{author}{S.~Dillon},
+\newblock \bibinfo{title}{{A helical model for managing innovative product and
+  service initiatives in volatile commercial environments}},
+\newblock \bibinfo{journal}{International Journal of Project Management}
+  \bibinfo{volume}{23} (\bibinfo{year}{2005}) \bibinfo{pages}{65--74}.
+%Type = Article
+\bibitem[{Carmel(1994)}]{Camel1994a}
+\bibinfo{author}{E.~Carmel},
+\newblock \bibinfo{title}{{Time-to-completion in software package startups}},
+\newblock \bibinfo{journal}{Proceedings of the System Sciences, 1994.}
+  (\bibinfo{year}{1994}) \bibinfo{pages}{498--507}.
+%Type = Article
+\bibitem[{da~Silva and Kon(2005)}]{Silva2005}
+\bibinfo{author}{A.~da~Silva}, \bibinfo{author}{F.~Kon},
+\newblock \bibinfo{title}{{Xp south of the equator: An experience implementing
+  xp in brazil}},
+\newblock \bibinfo{journal}{Extreme Programming and Agile Processes}
+  (\bibinfo{year}{2005}) \bibinfo{pages}{10--18}.
+%Type = Article
+\bibitem[{Midler and Silberzahn(2008)}]{Midler2008}
+\bibinfo{author}{C.~Midler}, \bibinfo{author}{P.~Silberzahn},
+\newblock \bibinfo{title}{{Managing robust development process for high-tech
+  startups through multi-project learning: The case of two European
+  start-ups}},
+\newblock \bibinfo{journal}{International Journal of Project Management}
+  \bibinfo{volume}{26} (\bibinfo{year}{2008}) \bibinfo{pages}{479--486}.
+%Type = Inproceedings
+\bibitem[{Taipale(2010)}]{Taipale2010}
+\bibinfo{author}{M.~Taipale},
+\newblock \bibinfo{title}{{Huitale - A story of a Finnish lean startup}},
+\newblock in: \bibinfo{booktitle}{Proceedings of the First International
+  Conference}, volume \bibinfo{volume}{65 LNBIP}, \bibinfo{address}{Helsinki,
+  Finland}, pp. \bibinfo{pages}{111--114}.
+%Type = Article
+\bibitem[{Zettel et~al.(2001)Zettel, Maurer, M\"{u}nch, and Wong}]{Zettel2001}
+\bibinfo{author}{J.~Zettel}, \bibinfo{author}{F.~Maurer},
+  \bibinfo{author}{J.~M\"{u}nch}, \bibinfo{author}{L.~Wong},
+\newblock \bibinfo{title}{{LIPE: a lightweight process for e-business startup
+  companies based on extreme programming}},
+\newblock \bibinfo{journal}{Product Focused Software Process Improvement}
+  (\bibinfo{year}{2001}) \bibinfo{pages}{255--270}.
+%Type = Article
+\bibitem[{Jansen et~al.(2008)Jansen, Brinkkemper, and Hunink}]{Jansen2008}
+\bibinfo{author}{S.~Jansen}, \bibinfo{author}{S.~Brinkkemper},
+  \bibinfo{author}{I.~Hunink},
+\newblock \bibinfo{title}{{Pragmatic and Opportunistic Reuse in Innovative
+  Start-up Companies}},
+\newblock \bibinfo{journal}{Software, IEEE}  (\bibinfo{year}{2008})
+  \bibinfo{pages}{42--49}.
+%Type = Article
+\bibitem[{Tingling(2007)}]{Tingling2007}
+\bibinfo{author}{P.~Tingling},
+\newblock \bibinfo{title}{{Extreme programming in action: a longitudinal case
+  study}},
+\newblock \bibinfo{journal}{Proceedings of the 12th international conference}
+  (\bibinfo{year}{2007}) \bibinfo{pages}{242--251}.
+%Type = Article
+\bibitem[{Deias and Mugheddu(2002)}]{Deias}
+\bibinfo{author}{R.~Deias}, \bibinfo{author}{G.~Mugheddu},
+\newblock \bibinfo{title}{{Introducing XP in a start-up}},
+\newblock \bibinfo{journal}{European Internet Services Company}
+  (\bibinfo{year}{2002}).
+%Type = Inproceedings
+\bibitem[{Stanfill and Astleford(2007)}]{Stanfill2007}
+\bibinfo{author}{R.~Stanfill}, \bibinfo{author}{T.~Astleford},
+\newblock \bibinfo{title}{{Improving Entrepreneurship Team Performance through
+  Market Feasibility Analysis, Early Identification of Technical Requirements,
+  and Intellectual Property Support}},
+\newblock in: \bibinfo{booktitle}{American Society for Engineering Education
+  Annual Conference}.
+%Type = Techreport
+\bibitem[{Wood(2005)}]{Wood2005}
+\bibinfo{author}{D.~Wood}, \bibinfo{title}{{Open Source Software Strategies for
+  Venture-Funded Startups}}, \bibinfo{type}{Technical Report}
+  \bibinfo{number}{TR-MS1287}, MIND Laboratory, University of Maryland,
+  \bibinfo{year}{2005}.
+%Type = Inproceedings
+\bibitem[{Steenhuis and de~Bruijn(2008)}]{Steenhuis2008}
+\bibinfo{author}{H.-J. Steenhuis}, \bibinfo{author}{E.~de~Bruijn},
+\newblock \bibinfo{title}{Innovation and technology based economic development:
+  Are there short-cuts?},
+\newblock in: \bibinfo{booktitle}{Management of Innovation and Technology,
+  2008. ICMIT 2008. 4th IEEE International Conference on}, pp.
+  \bibinfo{pages}{837 --841}.
+%Type = Inproceedings
+\bibitem[{Yogendra(2002)}]{Yogendra2002}
+\bibinfo{author}{S.~Yogendra},
+\newblock \bibinfo{title}{{Aligning business and technology strategies: a
+  comparison of established and start-up business contexts}},
+\newblock in: \bibinfo{booktitle}{Management Conference}.
+%Type = Article
+\bibitem[{Ambler(2002)}]{Ambler2002}
+\bibinfo{author}{S.~Ambler},
+\newblock \bibinfo{title}{{Lessons in agility from Internet-based
+  development}},
+\newblock \bibinfo{journal}{IEEE Software}  (\bibinfo{year}{2002})
+  \bibinfo{pages}{66--73}.
+%Type = Inproceedings
+\bibitem[{Mater and Subramanian(2000)}]{Mater2000}
+\bibinfo{author}{J.~Mater}, \bibinfo{author}{B.~Subramanian},
+\newblock \bibinfo{title}{{Solving the software quality management problem in
+  Internet startups}},
+\newblock in: \bibinfo{booktitle}{Proceedings of the 18th annual pacific
+  northwest software quality conference}, pp. \bibinfo{pages}{297--306}.
+%Type = Inproceedings
+\bibitem[{Kuvinka(2011)}]{Kuvinka2011}
+\bibinfo{author}{K.~Kuvinka},
+\newblock \bibinfo{title}{{Scrum and the Single Writer}},
+\newblock in: \bibinfo{booktitle}{Proceedings of Technical Communication
+  Summit}, \bibinfo{number}{May}, pp. \bibinfo{pages}{18--19}.
+%Type = Inproceedings
+\bibitem[{Li(2007)}]{Su-Chan2007}
+\bibinfo{author}{S.-C. Li},
+\newblock \bibinfo{title}{The role of value proposition and value co-production
+  in new internet startups: How new venture e-businesses achieve competitive
+  advantage},
+\newblock in: \bibinfo{booktitle}{Management of Engineering and Technology,
+  Portland International Center for}, pp. \bibinfo{pages}{1126 --1132}.
+%Type = Article
+\bibitem[{Lai(2010)}]{Lai2010}
+\bibinfo{author}{S.-l. Lai},
+\newblock \bibinfo{title}{{Chinese Entrepreneurship in the Internet Age :
+  Lessons from Alibaba.com}},
+\newblock \bibinfo{journal}{World Academy of Science, Engineering and
+  Technology} \bibinfo{volume}{72} (\bibinfo{year}{2010})
+  \bibinfo{pages}{405--411}.
+%Type = Article
+\bibitem[{Mirel(2000)}]{Mirel2000}
+\bibinfo{author}{B.~Mirel},
+\newblock \bibinfo{title}{{Product, process, and profit: the politics of
+  usability in a software venture}},
+\newblock \bibinfo{journal}{ACM Journal of Computer Documentation (JCD)}
+  \bibinfo{volume}{24} (\bibinfo{year}{2000}) \bibinfo{pages}{185--203}.
+%Type = Article
+\bibitem[{Hilmola et~al.(2003)Hilmola, Helo, and Ojala}]{Hilmola2003}
+\bibinfo{author}{O.-P. Hilmola}, \bibinfo{author}{P.~Helo},
+  \bibinfo{author}{L.~Ojala},
+\newblock \bibinfo{title}{{The value of product development lead time in
+  software startup}},
+\newblock \bibinfo{journal}{System Dynamics Review} \bibinfo{volume}{19}
+  (\bibinfo{year}{2003}) \bibinfo{pages}{75--82}.
+%Type = Inproceedings
+\bibitem[{Kim and Tadisina(2005)}]{Kim2005}
+\bibinfo{author}{E.~Kim}, \bibinfo{author}{S.~Tadisina},
+\newblock \bibinfo{title}{{Factors impacting customers' initial trust in
+  e-businesses: an empirical study}},
+\newblock in: \bibinfo{booktitle}{Proceedings of the 38th Annual Hawaii
+  International Conference on System Sciences}, volume~\bibinfo{volume}{07},
+  pp. \bibinfo{pages}{1--10}.
+%Type = Article
+\bibitem[{Wall(2001)}]{Wall2001}
+\bibinfo{author}{D.~Wall},
+\newblock \bibinfo{title}{Using open source for a profitable startup},
+\newblock \bibinfo{journal}{Computer} \bibinfo{volume}{34}
+  (\bibinfo{year}{2001}) \bibinfo{pages}{158 --160}.
+%Type = Article
+\bibitem[{Yoffie(1999)}]{Yoffie1999}
+\bibinfo{author}{D.~Yoffie},
+\newblock \bibinfo{title}{{Building a company on Internet time: Lessons from
+  netscape}},
+\newblock \bibinfo{journal}{California Management Review} \bibinfo{volume}{4}
+  (\bibinfo{year}{1999}).
+%Type = Article
+\bibitem[{Bean and Hott(2005)}]{Bean2005}
+\bibinfo{author}{L.~Bean}, \bibinfo{author}{D.~D. Hott},
+\newblock \bibinfo{title}{{Wiki: A speedy new tool to manage projects}},
+\newblock \bibinfo{journal}{Journal of Corporate Accounting \& Finance}
+  \bibinfo{volume}{16} (\bibinfo{year}{2005}) \bibinfo{pages}{3--8}.
+%Type = Article
+\bibitem[{Fayad(1997)}]{Fayad1997}
+\bibinfo{author}{M.~Fayad},
+\newblock \bibinfo{title}{{Process assessment considered wasteful}},
+\newblock \bibinfo{journal}{Communications of the ACM} \bibinfo{volume}{40}
+  (\bibinfo{year}{1997}) \bibinfo{pages}{125--128}.
+%Type = Article
+\bibitem[{\v{S}mite et~al.(2009)\v{S}mite, Wohlin, Gorschek, and
+  Feldt}]{Smite2009}
+\bibinfo{author}{D.~\v{S}mite}, \bibinfo{author}{C.~Wohlin},
+  \bibinfo{author}{T.~Gorschek}, \bibinfo{author}{R.~Feldt},
+\newblock \bibinfo{title}{{Empirical evidence in global software engineering: a
+  systematic review}},
+\newblock \bibinfo{journal}{Empirical Software Engineering}
+  \bibinfo{volume}{15} (\bibinfo{year}{2009}) \bibinfo{pages}{91--118}.
+%Type = Masterthesis
+\bibitem[{Ali and Edison(2010)}]{Ali2010a}
+\bibinfo{author}{N.~Ali}, \bibinfo{author}{H.~Edison}, \bibinfo{title}{{Towards
+  innovation measurement in software industry}}, Master's thesis, Blekinge
+  Institute of Technology, \bibinfo{year}{2010}.
+%Type = Book
+\bibitem[{Blank and Dorf(2012)}]{Blank2012}
+\bibinfo{author}{S.~Blank}, \bibinfo{author}{B.~Dorf}, \bibinfo{title}{{The
+  Startup Owner's Manual: The Step-by-Step Guide for Building a Great
+  Company}}, \bibinfo{publisher}{K\&S Ranch Publishing LLC},
+  \bibinfo{year}{2012}.
+%Type = Book
+\bibitem[{Ries(2011)}]{Ries2011}
+\bibinfo{author}{E.~Ries}, \bibinfo{title}{{The Lean Startup: How Today's
+  Entrepreneurs Use Continuous Innovation to Create Radically Successful
+  Businesses}}, \bibinfo{publisher}{Crown Business}, \bibinfo{year}{2011}.
+%Type = Book
+\bibitem[{{Colin Robson}(2009)}]{ColinRobson2009}
+\bibinfo{author}{{Colin Robson}}, \bibinfo{title}{{Real World Research: A
+  Resource for Social Scientists and Practitioner-Researchers}},
+  \bibinfo{publisher}{John Wiley and Sons}, \bibinfo{year}{2009}.
+%Type = Inproceedings
+\bibitem[{Brodman and Johnson(1994)}]{Brodman1994}
+\bibinfo{author}{J.~G. Brodman}, \bibinfo{author}{D.~L. Johnson},
+\newblock \bibinfo{title}{What small business and small organizations say about
+  the cmm: experience report},
+\newblock in: \bibinfo{booktitle}{Proceedings of the 16th international
+  conference on Software engineering}, ICSE, \bibinfo{publisher}{IEEE Computer
+  Society Press}, \bibinfo{address}{Los Alamitos, CA, USA},
+  \bibinfo{year}{1994}, pp. \bibinfo{pages}{331--340}.
+%Type = Article
+\bibitem[{Dyba et~al.(2005)Dyba, Kitchenham, and Jorgensen}]{Kitchenham2005}
+\bibinfo{author}{T.~Dyba}, \bibinfo{author}{B.~Kitchenham},
+  \bibinfo{author}{M.~Jorgensen},
+\newblock \bibinfo{title}{Evidence-based software engineering for
+  practitioners},
+\newblock \bibinfo{journal}{Software, IEEE} \bibinfo{volume}{22}
+  (\bibinfo{year}{2005}) \bibinfo{pages}{58 -- 65}.
+%Type = Inproceedings
+\bibitem[{Kitchenham et~al.(2004)Kitchenham, Dyba, and
+  Jorgensen}]{Kitchenham2004}
+\bibinfo{author}{B.~Kitchenham}, \bibinfo{author}{T.~Dyba},
+  \bibinfo{author}{M.~Jorgensen},
+\newblock \bibinfo{title}{Evidence-based software engineering},
+\newblock in: \bibinfo{booktitle}{Software Engineering, 2004. ICSE 2004.
+  Proceedings. 26th International Conference on}, pp. \bibinfo{pages}{273 --
+  281}.
+%Type = Article
+\bibitem[{von Wangenheim et~al.(2006)von Wangenheim, Anacleto, and
+  Salviano}]{Wangenheim2006}
+\bibinfo{author}{C.~von Wangenheim}, \bibinfo{author}{A.~Anacleto},
+  \bibinfo{author}{C.~Salviano},
+\newblock \bibinfo{title}{Helping small companies assess software processes},
+\newblock \bibinfo{journal}{Software, IEEE} \bibinfo{volume}{23}
+  (\bibinfo{year}{2006}) \bibinfo{pages}{91 --98}.
+%Type = Book
+\bibitem[{Wohlin et~al.(2000)Wohlin, Runeson, H\"{o}st, Ohlsson, Regnell, and
+  Wessl{\'e}n}]{Wohlin2000}
+\bibinfo{author}{C.~Wohlin}, \bibinfo{author}{P.~Runeson},
+  \bibinfo{author}{M.~H\"{o}st}, \bibinfo{author}{M.~C. Ohlsson},
+  \bibinfo{author}{B.~Regnell}, \bibinfo{author}{A.~Wessl{\'e}n},
+  \bibinfo{title}{Experimentation in software engineering: an introduction},
+  \bibinfo{publisher}{Kluwer Academic Publishers}, \bibinfo{address}{Norwell,
+  MA, USA}, \bibinfo{year}{2000}.
+%Type = Inproceedings
+\bibitem[{Coleman(2004{\natexlab{a}})}]{Coleman2004}
+\bibinfo{author}{G.~Coleman},
+\newblock \bibinfo{title}{{eXtreme Programming (XP) as a "Minimum" Software
+  Process : A grounded theory}},
+\newblock in: \bibinfo{booktitle}{Proceedings of the 28th Annual International
+  Computer Software and Applications Conference}, pp. \bibinfo{pages}{4--5}.
+%Type = Unpublished
+\bibitem[{Coleman(2004{\natexlab{b}})}]{Coleman}
+\bibinfo{author}{G.~Coleman}, \bibinfo{title}{{Practice Not Process : Improving
+  the Capability of Software Startups}}, \bibinfo{year}{2004}{\natexlab{b}}.
+  \bibinfo{note}{Proposal at Department of Computing and Mathematics, Duldalk
+  Institute of Technology}.
+%Type = Inproceedings
+\bibitem[{Lehman(1980)}]{1456074}
+\bibinfo{author}{M.~Lehman},
+\newblock \bibinfo{title}{Programs, life cycles, and laws of software
+  evolution},
+\newblock in: \bibinfo{booktitle}{Proceedings of the IEEE},
+  volume~\bibinfo{volume}{68}, pp. \bibinfo{pages}{1060 -- 1076}.
+%Type = Article
+\bibitem[{Banker and Davis(1998)}]{Banker1998}
+\bibinfo{author}{R.~Banker}, \bibinfo{author}{G.~Davis},
+\newblock \bibinfo{title}{{Software development practices, software complexity,
+  and software maintenance performance: A field study}},
+\newblock \bibinfo{journal}{Management Science}  (\bibinfo{year}{1998}).
+%Type = Misc
+\bibitem[{Thi(????)}]{ThielCS183}
+\bibinfo{howpublished}{P. Thiel. Notes on CS183. [Online]. Available:
+  \url{http://blakemasters.tumblr.com/post/21742864570/peter-thiels-cs183-startup-class-6-notes-essay}
+  (Accessed : Aug. 25, 2012).}, ????
+%Type = Book
+\bibitem[{Beck and Andres(2004)}]{Beck:2004:EPE:1076267}
+\bibinfo{author}{K.~Beck}, \bibinfo{author}{C.~Andres}, \bibinfo{title}{Extreme
+  Programming Explained: Embrace Change (2nd Edition)},
+  \bibinfo{publisher}{Addison-Wesley Professional}, \bibinfo{year}{2004}.
+%Type = Article
+\bibitem[{Gautam and Singh(2008)}]{Gautam2008}
+\bibinfo{author}{N.~Gautam}, \bibinfo{author}{N.~Singh},
+\newblock \bibinfo{title}{{Lean product development: Maximizing the customer
+  perceived value through design change (redesign)}},
+\newblock \bibinfo{journal}{International Journal of Production Economics}
+  \bibinfo{volume}{114} (\bibinfo{year}{2008}) \bibinfo{pages}{313--332}.
+%Type = Article
+\bibitem[{Abrahamsson et~al.(2002)Abrahamsson, Salo, Ronkainen, and
+  Warsta}]{Abrahamsson2002}
+\bibinfo{author}{P.~Abrahamsson}, \bibinfo{author}{O.~Salo},
+  \bibinfo{author}{J.~Ronkainen}, \bibinfo{author}{J.~Warsta},
+\newblock \bibinfo{title}{{Agile software development methods}},
+\newblock \bibinfo{journal}{Relat\'{o}rio T\'{e}cnico, Finl\^{a}ndia}
+  (\bibinfo{year}{2002}).
+%Type = Book
+\bibitem[{{Rob Walling}(2010)}]{RobWalling2010}
+\bibinfo{author}{{Rob Walling}}, \bibinfo{title}{{Start Small, Stay Small: A
+  developer's Guide to Launching a Startup}}, \bibinfo{publisher}{The Numa
+  Group}, \bibinfo{year}{2010}.
+%Type = Techreport
+\bibitem[{Marmer et~al.(2011)Marmer, Herrmann, Dogrultan, Berman, Eesley, and
+  Blank}]{StartupGenome}
+\bibinfo{author}{M.~Marmer}, \bibinfo{author}{B.~L. Herrmann},
+  \bibinfo{author}{E.~Dogrultan}, \bibinfo{author}{R.~Berman},
+  \bibinfo{author}{C.~Eesley}, \bibinfo{author}{S.~Blank},
+  \bibinfo{title}{{Startup Genome Report Extra: Premature Scaling}},
+  \bibinfo{type}{Technical Report}, Startup Genome, \bibinfo{year}{2011}.
+%Type = Article
+\bibitem[{Kurtz and Snowden(2003)}]{Kurtz2003}
+\bibinfo{author}{C.~F. Kurtz}, \bibinfo{author}{D.~J. Snowden},
+\newblock \bibinfo{title}{The new dynamics of strategy: Sense-making in a
+  complex and complicated world},
+\newblock \bibinfo{journal}{IBM Systems Journal} \bibinfo{volume}{42}
+  (\bibinfo{year}{2003}) \bibinfo{pages}{462 --483}.
+
+\end{thebibliography}
